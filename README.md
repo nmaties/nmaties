@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nicolae Maties</h1>
-- 🔭 I’m currently working for [ZORO UK](https://www.zoro.co.uk)
+🔭&nbsp;I’m currently working for [ZORO UK](https://www.zoro.co.uk)
 
-- 🔭 Personal projects: [DoNotDo](https://www.donotdo.app) and [Devs-Tools](https://www.devs-tools.com)
+- Personal projects: [DoNotDo](https://www.donotdo.app) and [Devs-Tools](https://www.devs-tools.com)
 
-- 📫 How to reach me **nicolaematies@gmail.com**
+- 📫&nbsp;How to reach me **nicolaematies@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
