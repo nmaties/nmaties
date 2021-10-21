@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nicolae Maties</h1>
-🔭&nbsp;I’m currently working for [ZORO UK](https://www.zoro.co.uk)
+
+- 🔭&nbsp;I’m currently working for [ZORO UK](https://www.zoro.co.uk)
 
 - Personal projects: [DoNotDo](https://www.donotdo.app) and [Devs-Tools](https://www.devs-tools.com)
 
