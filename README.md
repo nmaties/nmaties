@@ -2,7 +2,7 @@
 
 - 🔭&nbsp;I’m currently working for [ZORO UK](https://www.zoro.co.uk)
 
-- Personal projects: [DoNotDo](https://www.donotdo.app) and [Devs-Tools](https://www.devs-tools.com)
+- Personal projects: [Do Not Do](https://www.donotdo.app) and [Devs-Tools](https://www.devs-tools.com)
 
 - 📫&nbsp;How to reach me **nicolaematies@gmail.com**
 
