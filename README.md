@@ -2,7 +2,7 @@
 
  Work → [ZORO UK](https://www.zoro.co.uk)
 
- Projects → [ievent.ro](https://www.ievent.ro) - [Gapsly](https://www.gapsly.com) - [BacklinkX](https://www.backlinkx.io) <br />
+ Projects → [ievent.ro](https://www.ievent.ro) - [Gapsly](https://www.gapsly.com) - [BacklinkX](https://www.backlinkx.io) - [StilSanatos](https://www.stilsanatos.ro) <br />
 
  Email → **nicolaematies@gmail.com**
 
