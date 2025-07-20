@@ -2,7 +2,13 @@
 
  Work → [ZORO UK](https://www.zoro.co.uk)
 
- Projects → [ievent.ro](https://www.ievent.ro)  - [BacklinkX](https://www.backlinkx.io) - [StilSanatos](https://www.stilsanatos.ro) <br />
+ Projects → <br/>
+ [ievent.ro](https://www.ievent.ro) <br/>
+ [BacklinkX](https://www.backlinkx.io) <br/>
+ [StilSanatos](https://www.stilsanatos.ro) <br/>
+ [1StopBuy](https://www.1stopbuy.com)
+
+ <br />
 
  Email → **nicolaematies@gmail.com**
 
