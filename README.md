@@ -9,7 +9,7 @@
 [readz.news](https://www.readz.news)  <br />
 
 
-## Past projects:
+## Past projects → <br/>
 [gapsly.com](https://web.archive.org/web/20250126191531/https://www.gapsly.com/) <br/>
 [stilsanatos.ro](https://web.archive.org/web/20241230163944/https://www.stilsanatos.ro/) <br/>
 [donotdo.app](https://web.archive.org/web/20221119113500/https://www.donotdo.app/) <br/>
