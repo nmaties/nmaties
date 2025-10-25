@@ -15,3 +15,5 @@
 [donotdo.app](https://web.archive.org/web/20221119113500/https://www.donotdo.app/) <br/>
 
 ## Email → **nicolaematies@gmail.com**
+
+![](https://komarev.com/ghpvc/?nmaties)
