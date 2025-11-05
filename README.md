@@ -5,6 +5,7 @@
 <a href="https://www.ievent.ro/" target="_blank">ievent.ro</a> <br/>
 <a href="https://www.backlinkx.io/" target="_blank">backlinkx.io</a> <br/>
 <a href="https://www.json-tools.com/" target="_blank">json-tools.com</a> <br/>
+<a href="https://free-resume.net/" target="_blank">free-resume.net</a> <br/>
 <a href="https://www.readz.news/" target="_blank">readz.news</a> <br/>
 
 ## Past projects → <br/>
