@@ -6,7 +6,7 @@
 <a href="https://www.backlinkx.io/" target="_blank">backlinkx.io</a> <br/>
 <a href="https://www.json-tools.com/" target="_blank">json-tools.com</a> <br/>
 <a href="https://free-resume.net/" target="_blank">free-resume.net</a> <br/>
-<a href="https://www.readz.news/" target="_blank">readz.news</a> <br/>
+<a href="https://100lead.com/" target="_blank">100lead.com</a> <br/>
 <a href="https://j0bz.com/" target="_blank">j0bz.com</a> <br/>
 
 ## Past projects → <br/>
