@@ -8,7 +8,7 @@
 <a href="https://free-resume.net/" target="_blank">free-resume.net</a> <br/>
 <a href="https://100lead.com/" target="_blank">100lead.com</a> <br/>
 <a href="https://j0bz.com/" target="_blank">j0bz.com</a> <br/>
-<a href="https://screenrat.app/" target="_blank">screenrap.app</a> <br/>
+<a href="https://screenrat.app/" target="_blank">screenrat.app</a> <br/>
 
 ## Past projects → <br/>
 <a href="https://web.archive.org/web/20250126191531/https://www.gapsly.com/" target="_blank">gapsly.com</a> <br/>
