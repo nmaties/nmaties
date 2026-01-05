@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nicolae Maties</h1>
 
-# Work → [ZORO UK](https://www.zoro.co.uk)
+# Work → [Cryptio](https://cryptio.co)
 ## Current Projects → <br/>
 <a href="https://www.ievent.ro/" target="_blank">ievent.ro</a> <br/>
 <a href="https://www.backlinkx.io/" target="_blank">backlinkx.io</a> <br/>
