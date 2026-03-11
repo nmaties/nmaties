@@ -15,6 +15,6 @@
 <a href="https://web.archive.org/web/20241230163944/https://www.stilsanatos.ro/" target="_blank">stilsanatos.ro</a> <br/>
 <a href="https://web.archive.org/web/20221119113500/https://www.donotdo.app/" target="_blank">donotdo.app</a> <br/>
 <a href="https://web.archive.org/web/20250328131752/https://www.devs-tools.com/" target="_blank">devs-tools.com</a> <br/>
-<a href="https://www.backlinkx.io/" target="_blank">backlinkx.io</a> <br/> SOLD
+<a href="https://www.backlinkx.io/" target="_blank">backlinkx.io - SOLD</a> <br/>
 
 ## Email → **nicolaematies@gmail.com**
