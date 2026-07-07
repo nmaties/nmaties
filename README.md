@@ -10,6 +10,7 @@
 <a href="https://iutu.be/" target="_blank">iutu.be</a> <br/>
 <a href="https://promptgod.tech" target="_blank">promptgod.tech</a> <br/>
 <a href="https://nreactive.com" target="_blank">nreactive.com</a> <br/>
+<a href="https://j0bz.com/" target="_blank">j0bz.com</a> <br/>
 
 ## Past projects → <br/>
 <a href="https://web.archive.org/web/20250126191531/https://www.gapsly.com/" target="_blank">gapsly.com</a> <br/>
@@ -17,6 +18,5 @@
 <a href="https://web.archive.org/web/20221119113500/https://www.donotdo.app/" target="_blank">donotdo.app</a> <br/>
 <a href="https://web.archive.org/web/20250328131752/https://www.devs-tools.com/" target="_blank">devs-tools.com</a> <br/>
 <a href="https://www.backlinkx.io/" target="_blank">backlinkx.io - SOLD</a> <br/>
-<a href="https://j0bz.com/" target="_blank">j0bz.com</a> <br/>
 
 ## Email → **nicolaematies@gmail.com**
