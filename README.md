@@ -2,5 +2,4 @@
 
 # Work → [Cryptio](https://cryptio.co)
 
-# More work
-<a href="https://nmaties.dev/" target="_blank">nmaties.dev</a> <br/>
+# More Work → [nmaties.dev](https://nmaties.dev)
